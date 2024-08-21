@@ -1,6 +1,6 @@
 # AI/ML Projects Repository
 
-# Welcome to my AI/ML projects repository! This is a collection of personal projects where I will be exploring, implementing, and experimenting with various artificial intelligence and machine learning techniques. 
+ Welcome to my AI/ML projects repository! This is a collection of personal projects where I will be exploring, implementing, and experimenting with various artificial intelligence and machine learning techniques. 
 
 ## Overview
 
