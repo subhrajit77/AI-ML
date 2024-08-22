@@ -24,7 +24,7 @@ To get started with any of the projects:
 3. Follow the instructions in the project's README file to set up the environment, download necessary datasets, and run the code.
 
 ## 🛠️ Dependencies
-Each project may have its own set of dependencies, which are typically managed using **requirements.txt** files or ** environment.yml ** files for conda environments. Please refer to the specific project’s documentation for detailed setup instructions. 
+Each project may have its own set of dependencies, which are typically managed using **requirements.txt** files or **environment.yml** files for conda environments. Please refer to the specific project’s documentation for detailed setup instructions. 
 
 ## 🤝 Contributions
 While this is a personal repository, I welcome suggestions, improvements, or collaboration opportunities. Feel free to fork this repository, open issues, or submit pull requests.
